@@ -1,0 +1,26 @@
+{
+    "id": "5AF5C32B",
+    "path": "D:/Project/crime analysis/scripts/02_eda.R",
+    "project_path": "scripts/02_eda.R",
+    "type": "r_source",
+    "hash": "3491130028",
+    "contents": "",
+    "dirty": false,
+    "created": 1770055378192.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "45,0",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1770064443,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1770064443500,
+    "read_only": false,
+    "read_only_alternatives": []
+}

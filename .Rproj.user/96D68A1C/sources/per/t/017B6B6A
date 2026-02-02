@@ -1,0 +1,26 @@
+{
+    "id": "017B6B6A",
+    "path": "D:/Project/crime analysis/data/dataset.csv",
+    "project_path": "data/dataset.csv",
+    "type": "text",
+    "hash": "1468095134",
+    "contents": "",
+    "dirty": false,
+    "created": 1770064041323.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "217,0",
+        "scrollLine": "195"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1770061135,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1770061135,
+    "read_only": false,
+    "read_only_alternatives": []
+}
